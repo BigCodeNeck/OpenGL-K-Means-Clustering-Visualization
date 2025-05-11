@@ -1,3 +1,7 @@
+external/glad/
+external/glfw/
+external/glm/
+external/khr/
+external/stb_image.h
 build/
-external/
 **.pdf
